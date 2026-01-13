@@ -1,0 +1,15 @@
+{
+  "domain": "eversolo",
+  "name": "Eversolo",
+  "codeowners": [
+    "@hchris1"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/hchris1/Eversolo",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/hchris1/Eversolo/issues",
+  "requirements": [
+    "wakeonlan"
+  ],
+  "version": "0.7.1"
+}
